@@ -1,0 +1,7 @@
+Documentación oficial HTML - https://developer.mozilla.org/es/docs/Web/HTML
+• Documentación oficial CSS - https://developer.mozilla.org/es/docs/Web/CSS
+• Documentación oficial JavaScript - https://developer.mozilla.org/es/docs/Web/JavaScript/Reference
+• Documentación oficial Angular - https://angular.io/docs
+• Documentación oficial Java -  JDK 11 Documentation - Home (oracle.com)
+• Documentación oficial SpringBoot - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+• Página Oracle University (Java) - https://education.oracle.com/software/java/pFamily_48
